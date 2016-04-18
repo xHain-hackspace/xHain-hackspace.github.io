@@ -1,3 +1,9 @@
+---
+layout: post
+title: 'first post'
+---
+
+
 Test
 ==
 
