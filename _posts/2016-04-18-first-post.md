@@ -4,7 +4,8 @@ title: first post
 ---
 
 
-Excerpt lore impsun
+Excerpt ''lore impsun''
+
 
 <!--more--> 
 
