@@ -4,7 +4,7 @@ title: first post
 ---
 
 
-Excerpt ''lore impsun''
+Excerpt **lore ipsum**
 
 
 <!--more--> 
