@@ -13,5 +13,5 @@ Excerpt **lore ipsum**
 weiterer Text
 
 Liste:
-* Eintrag 1
-* Eintrag 2
+*Eintrag 1
+*Eintrag 2
