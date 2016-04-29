@@ -4,4 +4,5 @@ title: Xhain-hackspace.GitHub.io
 tagline: 'tagline missing'
 ---
 
-Erklärbartext hier...
+<h1>Erklärbartext hier...</h1>
+Standardartikeltext, bla blub
