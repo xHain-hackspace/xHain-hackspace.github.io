@@ -52,17 +52,5 @@ nav a:hover {
 color: rgb(255,199,8);
 }
 		/* -------------- end of navigavtion------------- */
-    .col-sm-3{
-  position: relative;
-  min-height: 1px;
-  padding-right: 15px;
-  padding-left: 15px;
-  width: 20%}
-    .col-sm-6{
-  position: relative;
-  min-height: 1px;
-  padding-right: 15px;
-  padding-left: 15px;
-  width: 60%;
- float: center;}
+  
     </style>
