@@ -7,7 +7,6 @@
 	.end     { text-align: end; }
 	
 	body     { background-color: rgb(0,78,78); 
-				 color: rgb(255,199,8)!important;
 				 padding: 1em 2em;}
 	header    { background-color: rgb(0,78,78); 
 				 color: rgb(255,199,8);
