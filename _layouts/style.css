@@ -22,7 +22,9 @@
 		a         {color: rgb(255,199,8);
 			text-decoration:none;
 				 }
-		hr		{color: rgb(255,199,8)
+		hr		{
+					border:none;
+					border-bottom:1px solid #f00;
 				 }	 
 		nav { display: block;}
 		/* -------------- navigavtion------------- */
