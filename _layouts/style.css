@@ -1,5 +1,3 @@
-		<style>
-
 	.left    { text-align: left; }
 	.right   { text-align: right; }
 	.center  { text-align: center; 
@@ -31,8 +29,4 @@
 					border-bottom:1px solid #f00;
 				 }	 
 		nav { display: block;}
-		/* -------------- navigavtion------------- */
-
-		/* -------------- end of navigavtion------------- */
-  
-    </style>
+	
