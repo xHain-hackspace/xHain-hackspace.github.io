@@ -18,9 +18,14 @@
 	}			 
 	header nav ul {
 				list-style: none;
-				padding: 0;
+				padding: 1em 0;
 				margin: 0;
-	}
+				text-align: center;
+					}
+	header nav ul li {
+			display: inline-block;
+			padding: 0 2em;
+			}
 	.footer     {color: rgb(255,199,8)
 				 }
 		h3        { color: rgb(255,199,8)
@@ -35,4 +40,3 @@
 					border-bottom:1px solid #f00;
 				 }
 
-				 	 
