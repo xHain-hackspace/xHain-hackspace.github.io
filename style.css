@@ -5,16 +5,22 @@
 	.justify { text-align: justify; }
 	.start   { text-align: start; }
 	.end     { text-align: end; }
+	
+	body     { background-color: rgb(0,78,78); 
+				 color: rgb(255,199,8)!important;
+				 padding: 1em 2em;}
 	header    { background-color: rgb(0,78,78); 
 				 color: rgb(255,199,8);
 				 }
 	header nav{
 				border-top: 1px solid rgb(255,199,8);
-				border-bottom: 1px solid rgb(255,199,8);
+				border-bottom: 1px solid rgb(255,199,8);			
 	}			 
-	body     { background-color: rgb(0,78,78); 
-				 color: rgb(255,199,8)!important;
-				 }
+	header nav ul {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+	}
 	.footer     {color: rgb(255,199,8)
 				 }
 		h3        { color: rgb(255,199,8)
