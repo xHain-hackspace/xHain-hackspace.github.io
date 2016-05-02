@@ -2,7 +2,8 @@
 
 	.left    { text-align: left; }
 	.right   { text-align: right; }
-	.center  { text-align: center; }
+	.center  { text-align: center; 
+			color: rgb(255,199,8);}
 	.justify { text-align: justify; }
 	.start   { text-align: start; }
 	.end     { text-align: end; }
