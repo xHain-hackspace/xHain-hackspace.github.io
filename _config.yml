@@ -1,1 +1,3 @@
-excerpt_separator: <!--more--> 
+baseurl: /
+exclude: ['README.md']
+excerpt_separator: <!--more-->

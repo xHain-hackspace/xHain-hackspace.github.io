@@ -1,7 +1,14 @@
 ---
 layout: main
-title: Xhain-hackspace.GitHub.io
-tagline: 'tagline missing'
 ---
 
-Erklärbartext hier...
+<h1>Erklärbartext hier...</h1>
+Standardartikeltext, bla blub
+
+<section>
+    {% for post in site.posts %}
+    <h3><a href="{{ post.url }}"> {{ post.title }} </a></h3>
+    {{ post.excerpt }}
+    <a href="{{ post.url }}">[weiterlesen...]</a>
+    {% endfor %}
+</section>
