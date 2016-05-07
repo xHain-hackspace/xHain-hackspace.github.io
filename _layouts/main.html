@@ -10,31 +10,19 @@
 	</head>
 
 	<body>
-		<header>
-			<p><a href="{{site.url}}/index.html"><img src="{{site.url}}/img/xHain_logo.png" alt="xHain hack+makerspace" height="256" width="256" ></a></p>
+		<header class="center">
+			<p><a href="{{site.url}}/index.html"><img src="{{site.url}}/img/xHain_logo.png" alt="xHain hack+makerspace"></a></p>
 
 
 			<nav>
 				<ul>
-	             	<li><a href="{{site.url}}/calender.html">Kalender</a></li>
-	           		<li><a href="{{site.url}}/about.html">about</a></li>
+	             	<li><a href="{{site.url}}/calender.html" class="{% if page.url == '/calender.html' %}current{% endif %}">Kalender</a></li>
+	           		<li><a href="{{site.url}}/about.html" class="{% if page.url == '/about.html' %}current{% endif %}">about</a></li>
 	    		</ul>
 	    	</nav>		
 		</header>
 
-		<div class="container">
-			<div class="row">
-				<div class="col-md-3"></div>
-				<div class="col-md-6">
-					<section>
-							<article>
-								{{ content }}
-							</article>
-					</section>
-				</div>
-				<div class="col-md-3"></div>
-			</div>
-		</div>
+		{{ content }}
 
 		 <footer>
 			<p>

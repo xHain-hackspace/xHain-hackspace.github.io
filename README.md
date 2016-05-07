@@ -20,4 +20,8 @@
     botstrap ordner löschen
     css/style.css
 
-*
+* Menü
+    hover - unterstrichen und bei aktive unterstrichen
+
+
+TODO:

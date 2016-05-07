@@ -2,13 +2,28 @@
 layout: main
 ---
 
-<h1>Erklärbartext hier...</h1>
-Standardartikeltext, bla blub
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 center">
 
-<section>
-    {% for post in site.posts %}
-    <h3><a href="{{ post.url }}"> {{ post.title }} </a></h3>
-    {{ post.excerpt }}
-    <a href="{{ post.url }}">[weiterlesen...]</a>
-    {% endfor %}
-</section>
+            <h1>Welcome</h1>
+            <p>to my hackspace</p>
+
+            <!-- POSTS -->
+            <ul>
+                {% for post in site.categories.news %}
+                <li>
+                    Title: <a href="{{site.url}}{{post.url}}">{{post.title}}</a>
+                    <p>Meta: {{post.meta}}</p>
+                </li>
+
+                    <!--<h3><a href="{{ post.url }}"> {{ post.title }} </a></h3>
+                    {{ post.excerpt }}
+                    <a href="{{ post.url }}">[weiterlesen...]</a>-->
+
+                {% endfor %}
+            </ul>
+
+        </div>
+    </div>
+</div>
