@@ -10,8 +10,9 @@ Musik und Getränke gibt es natürlich auch.
 <p>
 Um am Freitag die Eröffnung des xHains ordentlich feiern zu können, ist noch einiges zu tun.<br>
 Schaut doch mal in’s Pad, vielleicht habt ihr ja Zeit und Lust ein wenig zu helfen:
+</p>
 <a href=“http://pad.okfn.org/p/xHain”>To-Do-Liste</a>
-
+<p>
 Wenn es Freiwillige gibt, bitte <br>
 a) Fragezeichen durch Namen austauschen und danach <br>
 b) kurze Mail an Felix (x-hain@posteo.de) oder per Twitter an @xHain_Hackspace. 
