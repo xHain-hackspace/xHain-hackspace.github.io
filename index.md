@@ -1,8 +1,4 @@
 ---
 layout: main
-title: Xhain-hackspace.GitHub.io
-tagline: 'tagline missing'
+title: xHain hack+makerspace
 ---
-
-<h1>Erklärbartext hier...</h1>
-Standardartikeltext, bla blub
