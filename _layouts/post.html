@@ -1,4 +1,59 @@
-<artcile>
-	<h3>{{ page.title }}</h3>
-	{{ page.content | markdownify }}
-</artcile>
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="UTF-8">
+		<title>xHain hack+makerspace</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">			 
+    	<link rel="stylesheet" 
+    			href="css/bootstrap.min.css" >
+		<link rel="stylesheet" 
+			  href="css/style.css">	
+	</head>     
+	<body>
+		<header>
+			<p>
+				<img src="xHain_logo.png" alt="xHain hack+makerspace">
+			</p>
+			<nav>
+				<ul>
+	             	<li>
+	             		<a href="calender.html">anstehendes</a>
+	             	</li>
+	             	<li>
+	             		<a href="support.html">unterstützendes</a>
+	             	</li>
+	           		<li>
+	           			<a href="about.html">informierendes</a>
+	           		</li>
+	    		</ul>
+	    	</nav>		
+		</header>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-2"></div>
+					<div class="col-md-8">
+						<section>
+								<article>
+									<h3>{{ page.title }}</h3>
+									{{ page.content | markdownify }}
+								</article>
+							</section> 
+					</div>
+					<div class="col-md-2"></div>
+				</div>
+			</div>  			
+	 <footer>
+	 	<p>
+	 		xHain hack+makerspace <br>
+	 		Grünberger Straße 14  <br>
+	 		10243 Berlin<br><br>	 		
+			<a href="https://twitter.com/xHain_hackspace" >
+	 			<img src="Twitter_logo.jpg" alt="xHain hack+makerspace" height="16" width="16" title="Twitter">
+			</a>
+			<a href="mailto:x-hain@posteo.de?subject=Newsletter%20abonnieren">
+	 			<img src="Mail_Icon.png" alt="xHain hack+makerspace" height="24" width="24" title="Newsletter">
+			</a>
+	 	</p>
+	 </footer>
+	 </body>
+</html>
