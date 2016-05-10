@@ -16,8 +16,8 @@
 	
 	header p          { text-align: center;} 
 
-	header img			{ height:192;
-						width:192; }
+	header img			{ height:192px;
+						width:192px; }
 	
 	header nav        { border-top: 1px solid rgb(255,199,8);
 				        border-bottom: 1px solid rgb(255,199,8);}			 
