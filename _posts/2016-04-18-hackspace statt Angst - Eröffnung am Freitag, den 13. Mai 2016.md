@@ -8,6 +8,7 @@ category: news
 Musik und Getränke gibt es natürlich auch.
 </p>
 **
+
 <!--more--> 
 <p>
 Um am Freitag die Eröffnung des xHains ordentlich feiern zu können, ist noch einiges zu tun.<br>
