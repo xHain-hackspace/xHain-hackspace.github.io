@@ -5,9 +5,9 @@
 		<title>xHain hack+makerspace</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">			 
     	<link rel="stylesheet" 
-    			href="css/bootstrap.min.css" >
+    			href="{{site.url}}/css/bootstrap.min.css" >
 		<link rel="stylesheet" 
-			  href="css/style.css">	
+			  href="{{site.url}}/css/style.css">	
 	</head>
     
 	<body>
@@ -20,13 +20,13 @@
 			<nav>
 				<ul>
 	             	<li>
-	             		<a href="calender.html">anstehendes</a>
+	            		<a href="{{site.url}}/calender.html" class="{% if page.url == '/calender.html' %}current{% endif %}">anstehendes</a>
 	             	</li>
 	             	<li>
-	             		<a href="support.html">unterstützendes</a>
+	             		<a href="{{site.url}}/support.html" class="{% if page.url == '/support.html' %}current{% endif %}">unterstützendes</a>
 	             	</li>
 	           		<li>
-	           			<a href="about.html">informierendes</a>
+	             		<a href="{{site.url}}/about.html" class="{% if page.url == 'about.html' %}current{% endif %}">informierendes</a>
 	           		</li>
 	    		</ul>
 	    	</nav>		
@@ -53,10 +53,10 @@
 		 		Grünberger Straße 14  <br>
 		 		10243 Berlin		  <br><br>	 		
 				<a href="https://twitter.com/xHain_hackspace" >
-		 			<img src="Twitter_logo.jpg" alt="xHain hack+makerspace" height="16" width="16" title="Twitter">
+		 			<img src="{{site.url}}/Twitter_logo.jpg" alt="xHain hack+makerspace" height="16" width="16" title="Twitter">
 				</a>
-				<a href="mailto:x-hain@posteo.de">
-		 			<img src="Mail_Icon.png" alt="xHain hack+makerspace" height="24" width="24" title="Mail">
+				<a href="mailto:x-hain@posteo.de?subject=Newsletter%20abonnieren">
+		 			<img src="{{site.url}}/Mail_Icon.png" alt="xHain hack+makerspace" height="24" width="24" title="Newsletter">
 				</a>
 	 		</p>
 					</div>
