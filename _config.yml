@@ -1,3 +1,3 @@
-+baseurl: /
++baseurl: //xhain-hackspace.github.io/
 +exclude: ['README.md']
 +excerpt_separator: <!--more-->
