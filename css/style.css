@@ -4,6 +4,10 @@
 	
 	a                 { color: rgb(255,199,8);}	
 
+
+	a:hover			{ 	color: rgb(255,199,8);
+						text-decoration: underline;}
+
 	h1                { color: rgb(255,199,8);}	
 	
 	h2                { color: rgb(255,199,8);}	
