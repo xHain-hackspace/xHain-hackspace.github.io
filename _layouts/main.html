@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="{% if page.lang %}{{ page.lang }}{% else %}de{% endif %}">
 	<head>
 		<meta charset="UTF-8">
 		<title>xHain hack+makespace</title>
@@ -11,22 +11,7 @@
 	</head>     
 	<body>
 		<header>
-			<p>
-				<img src="xHain_logo.png" alt="xHain hack+makespace">
-			</p>
-			<nav>
-				<ul>
-	             	<li>
-	            		<a href="{{site.url}}/calender.html" class="{% if page.url == '/calender.html' %}current{% endif %}">anstehendes</a>
-	             	</li>
-	             	<li>
-	             		<a href="{{site.url}}/support.html" class="{% if page.url == '/support.html' %}current{% endif %}">unterstützendes</a>
-	             	</li>
-	           		<li>
-	             		<a href="{{site.url}}/about.html" class="{% if page.url == 'about.html' %}current{% endif %}">informierendes</a>
-	           		</li>
-	    		</ul>
-	    	</nav>		
+			{% include navigation.html %}
 		</header>
 			<div class="container">
 				<div class="row">

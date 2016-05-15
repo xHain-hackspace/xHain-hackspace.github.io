@@ -9,30 +9,13 @@ permalink: /en/calendar.html
 		<title>xHain hack+makespace</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">			 
     	<link rel="stylesheet" 
-    			href="css/bootstrap.min.css" >
+    			href="/css/bootstrap.min.css" >
 		<link rel="stylesheet" 
-			  href="css/style.css">	
+			  href="/css/style.css">	
 	</head>     
 	<body>
 		<header>
-			<p>
-				<a href="index.html">
-					<img src="/xHain_logo.png" alt="xHain hack+makespace">
-				</a>
-			</p>
-			<nav>
-				<ul>
-					<li>
-						<a href="/en/calendar.html" class="{% if page.url == '/en/calender.html' %}current{% endif %}">happening</a>
-					</li>
-					<li>
-						<a href="/en/support.html" class="{% if page.url == '/en/support.html' %}current{% endif %}">supporting</a>
-					</li>
-					<li>
-						<a href="/en/about.html" class="{% if page.url == '/en/about.html' %}current{% endif %}">informing</a>
-					</li>
-				</ul>
-			</nav>
+			{% include navigation.html %}
 		</header>
 			<div class="container">
 				<div class="row">

@@ -58,3 +58,9 @@
 	.center 		{ text-align: center;}
 
 	.current 		{ text-decoration: underline;}
+
+	.languages {
+		position: absolute;
+		top: 1em;
+		right: 2em;
+	}

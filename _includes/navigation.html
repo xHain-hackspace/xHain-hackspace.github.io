@@ -1,0 +1,34 @@
+<p>
+	<a href="./"><img src="/xHain_logo.png" alt="xHain hack+makespace"></a>
+</p>
+{% if page.lang == 'en' %}
+<nav>
+	<p class="languages"><a href="{{ page.url | replace_first: '/en/', '/' | replace: 'calendar', 'calender' }}" lang="de">Deutsch</a></p>
+	<ul>
+		<li>
+			<a href="{{site.url}}/en/calendar.html" class="{% if page.url == '/en/calendar.html' %}current{% endif %}">happening</a>
+		</li>
+		<li>
+			<a href="{{site.url}}/en/support.html" class="{% if page.url == '/en/support.html' %}current{% endif %}">supporting</a>
+		</li>
+		<li>
+			<a href="{{site.url}}/en/about.html" class="{% if page.url == '/en/about.html' %}current{% endif %}">informing</a>
+		</li>
+	</ul>
+</nav>
+{% else %}
+<nav>
+	<p class="languages"><a href="{{ page.url | replace_first: '/', '/en/' | replace: 'calender', 'calendar' }}" lang="en">English</a></p>
+	<ul>
+		<li>
+			<a href="{{site.url}}/calender.html" class="{% if page.url == '/calender.html' %}current{% endif %}">anstehendes</a>
+		</li>
+		<li>
+			<a href="{{site.url}}/support.html" class="{% if page.url == '/support.html' %}current{% endif %}">unterstützendes</a>
+		</li>
+		<li>
+			<a href="{{site.url}}/about.html" class="{% if page.url == 'about.html' %}current{% endif %}">informierendes</a>
+		</li>
+	</ul>
+</nav>
+{% endif %}

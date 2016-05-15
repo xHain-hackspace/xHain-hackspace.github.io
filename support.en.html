@@ -9,30 +9,13 @@ permalink: /en/support.html
 		<title>xHain hack+makespace</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">			 
     	<link rel="stylesheet" 
-    			href="css/bootstrap.min.css" >
+    			href="/css/bootstrap.min.css" >
 		<link rel="stylesheet" 
-			  href="css/style.css">	
+			  href="/css/style.css">	
 	</head>
 	<body>
 		<header>
-			<p>
-				<a href="index.html">
-					<img src="/xHain_logo.png" alt="xHain hack+makespace">
-				</a>
-			</p>
-			<nav>
-				<ul>
-					<li>
-						<a href="/en/calendar.html" class="{% if page.url == '/en/calender.html' %}current{% endif %}">happening</a>
-					</li>
-					<li>
-						<a href="/en/support.html" class="{% if page.url == '/en/support.html' %}current{% endif %}">supporting</a>
-					</li>
-					<li>
-						<a href="/en/about.html" class="{% if page.url == '/en/about.html' %}current{% endif %}">informing</a>
-					</li>
-				</ul>
-			</nav>
+			{% include navigation.html %}
 		</header>
 			<div class="container">
 				<div class="row">
@@ -41,6 +24,7 @@ permalink: /en/support.html
 						<section>
 							<article>
 								<p>
+									<br>
 									There are several ways to support xHain. As we’ve only just started building the place, there are two main things you can contribute: time and money.
 								</p>
 								<h3>Coming Over</h3>
@@ -75,10 +59,10 @@ permalink: /en/support.html
 		 		Grünberger Straße 14  <br>
 		 		10243 Berlin		  <br><br>	 		
 				<a href="https://twitter.com/xHain_hackspace" >
-		 			<img src="Twitter_logo.jpg" alt="xHain hack+makespace" height="16" width="16" title="Twitter">
+		 			<img src="/Twitter_logo.jpg" alt="xHain hack+makespace" height="16" width="16" title="Twitter">
 				</a>
 				<a href="mailto:x-hain@posteo.de?subject=Newsletter%20abonnieren">
-		 			<img src="Mail_Icon.png" alt="xHain hack+makespace" height="24" width="24" title="Newsletter">
+		 			<img src="/Mail_Icon.png" alt="xHain hack+makespace" height="24" width="24" title="Newsletter">
 				</a>
 	 		</p>
 	 	</footer>
