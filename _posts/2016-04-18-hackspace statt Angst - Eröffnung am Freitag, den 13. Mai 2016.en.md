@@ -5,6 +5,8 @@ meta: short description
 category: news
 lang: en
 permalink: /en/news/2016/04/18/opening.html
+translations:
+  de: "/news/2016/04/18/hackspace-statt-Angst-Eröffnung-am-Freitag,-den-13.-Mai-2016.html"
 ---
 We're celebrating the opening of xHain on Friday, 13 May!
 

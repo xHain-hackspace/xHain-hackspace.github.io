@@ -3,7 +3,12 @@
 </p>
 {% if page.lang == 'en' %}
 <nav>
-	<p class="languages"><a href="{{ page.url | replace_first: '/en/', '/' }}" lang="de">Deutsch</a></p>
+	<p class="languages">
+		{% if page.translations.de != false %}
+		{% assign url = page.translations.de %}
+		<a href="{% if url %}{{ url }}{% else %}{{ page.url | replace_first: '/en/', '/' }}{% endif %}" lang="de">Deutsch</a>
+		{% endif %}
+	</p>
 	<ul>
 		<li>
 			<a href="{{site.url}}/en/calendar.html" class="{% if page.url == '/en/calendar.html' %}current{% endif %}">happening</a>
@@ -18,7 +23,12 @@
 </nav>
 {% else %}
 <nav>
-	<p class="languages"><a href="{{ page.url | replace_first: '/', '/en/' }}" lang="en">English</a></p>
+	<p class="languages">
+		{% if page.translations.en != false %}
+		{% assign url = page.translations.en %}
+		<a href="{% if url %}{{ url }}{% else %}{{ page.url | replace_first: '/', '/en/' }}{% endif %}" lang="en">English</a>
+		{% endif %}
+	</p>
 	<ul>
 		<li>
 			<a href="{{site.url}}/calendar.html" class="{% if page.url == '/calendar.html' %}current{% endif %}">anstehendes</a>
