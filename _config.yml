@@ -1,3 +1,5 @@
 +baseurl: //xhain-hackspace.github.io/
 +exclude: ['README.md']
 +excerpt_separator: <!--more-->
++gems:
++  - jekyll-redirect-from 
