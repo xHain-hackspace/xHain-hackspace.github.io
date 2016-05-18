@@ -4,6 +4,8 @@ title: hackspace statt Angst - Eröffnung am Freitag, den 13. Mai 2016
 meta: short description
 category: news
 lang: de
+translations:
+  en: /en/news/2016/04/18/opening.html
 ---
 <p> Am Freitag, den 13. Mai feiern wir die Eröffnung des xHains! <br> Ab 18Uhr steht Euch die Tür offen. <br> Kommt vorbei und schaut euch an was aus dem kahlen Raum geworden ist und kassiert einen Aufkleber ein. <br>
 Musik und Getränke gibt es natürlich auch.
