@@ -4,47 +4,40 @@
 		<meta charset="UTF-8">
 		<title>xHain hack+makespace</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">			 
-    	<link rel="stylesheet" 
-    			href="{{site.url}}/css/bootstrap.min.css" >
-		<link rel="stylesheet" 
-			  href="{{site.url}}/css/style.css">	
-	</head>     
+		<link rel="stylesheet" href="/css/bootstrap.min.css" >
+		<link rel="stylesheet" href="/css/style.css">	
+	</head>
 	<body>
 		<header>
 			{% include navigation.html %}
 		</header>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-3"></div>
-					<div class="col-md-6">
-						<section>
-								<article>
-									{{ page.content }}
-								</article>
-							<section>	
-								{% for post in site.posts %}
-									<h3><a href="{{ post.url }}"> {{ post.title }} </a></h3>
-									{{ post.excerpt }}
-									<a href="{{ post.url }}"  class="center">[weiter...]</a>
-								{% endfor %}
-							</section>
-						</section> 
-					</div>
-					<div class="col-md-3"></div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-6">
+					<section>
+						<article>
+							{{ content }}
+						</article>
+					</section> 
 				</div>
-			</div>  			
-	 <footer>
-	 	<p>
-	 		xHain hack+makespace <br>
-	 		Grünberger Straße 14  <br>
-	 		10243 Berlin<br><br>	 		
+				<div class="col-md-3"></div>
+			</div>
+		</div>
+
+		<footer>
+			<p>
+				xHain hack+makespace<br>
+				Grünberger Straße 14<br>
+				10243 Berlin<br><br>
 				<a href="https://twitter.com/xHain_hackspace" >
-		 			<img src="{{site.url}}/Twitter_logo.jpg" alt="xHain hack+makespace" height="16" width="16" title="Twitter">
+					<img src="{{site.url}}/Twitter_logo.jpg" alt="xHain hack+makespace" height="16" width="16" title="Twitter">
 				</a>
 				<a href="mailto:x-hain@posteo.de?subject=Newsletter%20abonnieren">
-		 			<img src="{{site.url}}/Mail_Icon.png" alt="xHain hack+makespace" height="24" width="24" title="Newsletter">
+					<img src="{{site.url}}/Mail_Icon.png" alt="xHain hack+makespace" height="24" width="24" title="Newsletter">
 				</a>
-	 	</p>
-	 </footer>
+		 	</p>
+		 </footer>
 	 </body>
 </html>
