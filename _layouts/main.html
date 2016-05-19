@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="UTF-8">
+		<title>xHain hack+makerspace</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">			 
+			  <!-- Bootstrap -->
+    	<link rel="stylesheet" href="{{site.url}}/css/bootstrap.min.css" >
+		<link rel="stylesheet" href="{{site.url}}/css/style.css">
+	</head>
+
+	<body>
+		<header class="center">
+			<p><a href="{{site.url}}/index.html"><img src="{{site.url}}/img/xHain_logo.png" alt="xHain hack+makerspace"></a></p>
+
+
+			<nav>
+				<ul>
+	             	<li><a href="{{site.url}}/calender.html" class="{% if page.url == '/calender.html' %}current{% endif %}">Kalender</a></li>
+	           		<li><a href="{{site.url}}/about.html" class="{% if page.url == '/about.html' %}current{% endif %}">about</a></li>
+	    		</ul>
+	    	</nav>		
+		</header>
+
+		{{ content }}
+
+		 <footer>
+			<p>
+				xHain hack+makerspace <br>
+				Grünberger Straße 14  <br>
+				10243 Berlin<br><br>
+				<a href="https://twitter.com/xHain_hackspace" >
+					<img src="{{site.url}}/img/Twitter_logo.jpg" alt="xHain hack+makerspace" height="16" width="16" title="Twitter">
+				</a>
+				<a href="mailto:x-hain@posteo.de?subject=Newsletter%20abonnieren">
+					<img src="{{site.url}}/img/Mail_Icon.png" alt="xHain hack+makerspace" height="24" width="24" title="Newsletter">
+				</a>
+			</p>
+		 </footer>
+
+	 </body>
+</html>
