@@ -5,7 +5,8 @@ meta: short description
 category: news
 lang: en
 translations:
-  de: /de/news/2016/06/01/hello world.en.html
+  de: /de/news/2016/06/01/hello world.html  
+permalink: /en/news/2016/06/01/hello world.html
 ---
 
 #Hello world. The xHain is alive!  
@@ -18,7 +19,7 @@ In the meantime Monday has been decided as being the day with the 'open grove'  
 Every thursday it's 'Ladies salon' by and with [@heartsofcode][1].  Since they did a soldering-workshop for girls on May 21st there have been calls for the next workshop - but this time persons of all genders will be able to learn soldering. The second round will happen in june - the exact date will be announced soon.
 From June 14th tuesday evenings will be filled with content. The first regular evening will be 'CivicHacking' Over 6000 files from the local administration - what is it good for? What is necessary to put this pile of information into an understandable picture of how local politics is made? It's not a project for a single night - so we're going to come back to it every 2nd tuesday of the month.
 
-You'll find all dates also on '[anstehendes][2].'
+You'll find all dates also on '[happening][2].'
 
 Furthermore it's now possible to support the xHain with the [Support-Flatrate][3]. Give the xHain some coins and help us to keep this hackspace growing.
 
