@@ -1,6 +1,5 @@
 ---
 layout: post
-title: #Hello world. Der xHain lebt!
 meta: short description
 category: news
 lang: de
