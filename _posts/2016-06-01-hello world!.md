@@ -1,13 +1,13 @@
 ---
 layout: post
-title: #Hello world. The xHain is alive!
+title: #Hello world.
 meta: short description
 category: news
 lang: de
 translations:
   en: /en/news/2016/06/01/hello world.html
 ---
-# Hello world. Der xHain lebt!  
+#Hello world. Der xHain lebt!  
 
 Seit der Eröffnung am 13.05. sind schon ein paar Wochen vergangen und seitdem ist schon einiges passiert. In der Küche wurde eine Zwischendecke eingezogen, die ab sofort mehr Stauraum bietet. Mehr Platz gibt es auch zum Arbeiten. In echter Maker-Manier gibt es jetzt Tische, die man entweder zu einer großen Tafel zusammenstellen, als Einzeltische nutzen oder auch ganz wegräumen kann. Gerne dürft ihr noch helfen und euch mit eigenen Ideen und Projekten einbringen! Der Beamer und die Leinwand warten auch immer noch darauf, angebracht zu werden.
 
