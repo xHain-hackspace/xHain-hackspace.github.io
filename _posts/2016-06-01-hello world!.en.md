@@ -3,9 +3,9 @@ layout: post
 title: #Hello world. The xHain is alive!
 meta: short description
 category: news
-lang: de
+lang: en
 translations:
-  en: /en/news/2016/06/01/hello world.html
+  de: /de/news/2016/06/01/hello world.en.html
 ---
 
 #Hello world. The xHain is alive!  
