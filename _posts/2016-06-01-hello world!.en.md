@@ -13,6 +13,7 @@ Since opening May, 13th a couple of weeks have gone by and quite a bit happened 
 We\'92ve got a false ceiling in the kitchen, which now offers a lot of space to store your projects or tools, like the soldering stations we got last week. There is more space to work. Our tables can either be put together for areal table or can be used separately - or just put them away if you don't need them.
 If you want to help and realise your own ideas and projects - you're invited to do so.
 
+<!--more--> 
 In the meantime Monday has been decided as being the day with the 'open grove'  - the hacking and making evening open for everybody. Normally doors open on monday at 5pm - and you're invited to it!
 Every thursday it's 'Ladies salon' by and with [@heartsofcode][1].  Since they did a soldering-workshop for girls on May 21st there have been calls for the next workshop - but this time persons of all genders will be able to learn soldering. The second round will happen in june - the exact date will be announced soon.
 From June 14th tuesday evenings will be filled with content. The first regular evening will be 'CivicHacking' Over 6000 files from the local administration - what is it good for? What is necessary to put this pile of information into an understandable picture of how local politics is made? It's not a project for a single night - so we're going to come back to it every 2nd tuesday of the month.
