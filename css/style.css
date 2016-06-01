@@ -35,8 +35,8 @@
 			           padding: 0 2em; 
 			           color: rgb(255,199,8);}
 	
-	label			 { color: rgb(255,199,8);}
-		
+	body label		 { color: rgb(255,199,8);}
+
 	body p 			 { color: rgb(255,255,255);
 						text-align: center;}
 
