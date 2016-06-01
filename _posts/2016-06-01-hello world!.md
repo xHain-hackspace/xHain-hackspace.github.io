@@ -17,7 +17,7 @@ Ab dem 14.6. beginnen auch die inhaltlichen Abende. Den Anfang macht “CivicHac
 Alle Termine findet ihr auch unter „[anstehendes][2].“
 
 
-Weiterhin ist es ab heute auch möglich sein, den xHain mit der [Support-Flatrate][3] zu unterstützen. Gebt dem xHain ein paar Euros und helft so mit, dass er lange bestehen kann und weiterhin gedeiht!  
+Weiterhin ist es ab heute auch möglich, den xHain mit der [Support-Flatrate][3] zu unterstützen. Gebt dem xHain ein paar Euros und helft so mit, dass er lange bestehen kann und weiterhin gedeiht!  
 
 [1]:	https://twitter.com/heartsofcode
 [2]:	https://xhain-hackspace.github.io/calendar.html
