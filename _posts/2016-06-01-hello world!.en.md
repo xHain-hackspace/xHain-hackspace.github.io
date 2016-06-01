@@ -1,4 +1,14 @@
-# Hello world. The xHain is alive!  
+---
+layout: post
+title: #Hello world. The xHain is alive!
+meta: short description
+category: news
+lang: de
+translations:
+  en: /en/news/2016/06/01/hello world.html
+---
+
+#Hello world. The xHain is alive!  
 Since opening May, 13th a couple of weeks have gone by and quite a bit happened in the hackspace. 
 We\'92ve got a false ceiling in the kitchen, which now offers a lot of space to store your projects or tools, like the soldering stations we got last week. There is more space to work. Our tables can either be put together for areal table or can be used separately - or just put them away if you don't need them.
 If you want to help and realise your own ideas and projects - you're invited to do so.
