@@ -23,5 +23,5 @@ You'll find all dates also on '[happening][2].'
 Furthermore it's now possible to support the xHain with the [Support-Flatrate][3]. Give the xHain some coins and help us to keep this hackspace growing.
 
 [1]:	https://twitter.com/heartsofcode
-[2]:	https://xhain-hackspace.github.io/calendar.html
-[3]:	https://xhain-hackspace.github.io/support.html
+[2]:	https://xhain-hackspace.github.io/en/calendar.html
+[3]:	https://xhain-hackspace.github.io/en/support.html
