@@ -4,7 +4,7 @@ meta: short description
 category: news
 lang: de
 translations:
-de: /de/news/2016/06/13/Civic Hacking.html
+de: /news/2016/06/13/Civic-Hacking.html
 ---
 The idea is to recycle the whole Parliament operating process properly. Specifically, it is about 6000 operations of the BVV Xhain (requests, resolutions etc). You can find them in the council information system ALLRIS [1]. But the ALLRIS is not particularly great. The goal is to recycle all the stuff to categorize ( "planning committee", "SPD", "rejected" etc) to geotag, and then to make detectable on a map.
 
