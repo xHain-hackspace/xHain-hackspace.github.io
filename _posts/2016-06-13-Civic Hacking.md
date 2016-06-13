@@ -19,7 +19,7 @@ Bei der Aufbereitung ist Python als Sprache ziemlich gesetzt. Bei Backend und Fr
 
 Alternative Projekte zu anderen Bezirken, Kommunen etc, sind gerne gesehen, ebenso alles, was mit Open Government Data zu tun hat.
 
-
+Das dies ein Projekt ist, das nicht an einem Abend fertig wird, findet es jetzt an jedem 2.Dienstag im Monat statt.
 
 [1] http://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo040.asp
 [2] http://glottotopia.github.io/bvvscout/
