@@ -1,9 +1,7 @@
 ---
 layout: main
 ---
-
-{% assign language_suffix 				= "." | append : page.lang %}
-{% assign title_without_language_code 	= page.title | replace : language_suffix : '' %}
-<h3>{{ title_without_language_code }}</h3>
+{% assign lang_suf = "." | append : page.lang %}
+<h3>{{page.title | split : lang_suf | first}}</h3>
 
 {{ content }}
