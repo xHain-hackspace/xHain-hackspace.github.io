@@ -7,10 +7,10 @@ translations:
 en: /en/news/2016/06/13/Civic Hacking.html
 ---
 
-Es geht darum, den ganzen Parlamentsbetrieb ordentlich aufzubereiten. Konkret geht es um 6000 Vorgänge aus der BVV Xhain (Anträge, Resolutionen, Anfragen etc). Diese liegen im Ratsinformationssystem ALLRIS vor.[1] Das ALLRIS ist aber nicht besonders toll. Ziel ist, die ganzen Sachen aufzubereiten, zu kategorisieren ("Bauausschuss", "SPD", "abgelehnt" etc), zu geotaggen und dann auf einer Karte erfassbar zu machen.
+Es geht darum, den ganzen Parlamentsbetrieb ordentlich aufzubereiten. Konkret geht es um 6000 Vorgänge aus der BVV Xhain (Anträge, Resolutionen, Anfragen etc). Diese liegen im Ratsinformationssystem ALLRIS vor [1]. Das ALLRIS ist aber nicht besonders toll. Ziel ist, die ganzen Sachen aufzubereiten, zu kategorisieren ("Bauausschuss", "SPD", "abgelehnt" etc), zu geotaggen und dann auf einer Karte erfassbar zu machen.
 
 <!--more--> 
-Einen Dummy gibt es hier[2]
+Einen Dummy gibt es hier [2]
 
 Die 6000 Datensätze liegen in dreckigem XHTML vor und müssen in ein vernünftiges Format transformiert werden (XML oder JSON, optional RDF falls jemand möchte).
 
@@ -23,4 +23,5 @@ Alternative Projekte zu anderen Bezirken, Kommunen etc, sind gerne gesehen, eben
 Das dies ein Projekt ist, das nicht an einem Abend fertig wird, findet es jetzt an jedem 2.Dienstag im Monat statt.
 
 [1] http://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo040.asp
+
 [2] http://glottotopia.github.io/bvvscout/

@@ -6,10 +6,10 @@ lang: de
 translations:
 de: /de/news/2016/06/13/Civic Hacking.html
 ---
-The idea is to recycle the whole Parliament operating process properly. Specifically, it is about 6000 operations of the BVV Xhain (requests, resolutions etc). You can find them in the council information system ALLRIS. [1] But the ALLRIS is not particularly great. The goal is to recycle all the stuff to categorize ( "planning committee", "SPD", "rejected" etc) to geotag, and then to make detectable on a map.
+The idea is to recycle the whole Parliament operating process properly. Specifically, it is about 6000 operations of the BVV Xhain (requests, resolutions etc). You can find them in the council information system ALLRIS [1]. But the ALLRIS is not particularly great. The goal is to recycle all the stuff to categorize ( "planning committee", "SPD", "rejected" etc) to geotag, and then to make detectable on a map.
 
 <!--more--> 
-You'll find a dummy here [2]
+You'll find a dummy here [2].
 
 The 6000 data files are in dirty XHTML and must be transformed into a rational format (XML or JSON, RDF optional if someone wants).
 
@@ -23,4 +23,5 @@ As this is a project that is not in one evening is finished, it will take place 
 
 
 [1] http://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo040.asp
+
 [2] http://glottotopia.github.io/bvvscout/
