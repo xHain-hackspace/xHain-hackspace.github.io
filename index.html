@@ -5,7 +5,6 @@ lang: de
 ---
 {% for post in site.posts %}
 {% if post.lang == page.lang %}
-	{{post.lang}}
 	{% assign lang_suf = "." | append : post.lang %}
 	<h3><a href="{{ post.url }}"> {{post.title | split : lang_suf | first}} </a></h3>
 	{{ post.excerpt }}
