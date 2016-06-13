@@ -2,7 +2,7 @@
 layout: post
 meta: short description
 category: news
-lang: de
+lang: en
 translations:
 de: /news/2016/06/13/Civic-Hacking.html
 ---
