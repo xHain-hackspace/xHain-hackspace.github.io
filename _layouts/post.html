@@ -1,6 +1,9 @@
 ---
 layout: main
 ---
-<h3>{{ page.title }}</h3>
+
+{% assign language_suffix 				= "." | append : page.lang %}
+{% assign title_without_language_code 	= page.title | replace : language_suffix : '' %}
+<h3>{{ title_without_language_code }}</h3>
 
 {{ content }}
