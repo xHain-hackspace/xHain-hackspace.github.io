@@ -21,7 +21,7 @@ When preparing Python is pretty set as language. In backend and frontend, everyt
 
 Alternative projects to other districts, municipalities etc, are welcome, as everything has to do with open government data.
 
-As this is a project that is not in one evening is finished, it will take place every second tuesday of a month.
+As this is a project that is not in one evening is finished, it will take place every second tuesday of a month from 8:30pm.
 
 
 [1] http://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo040.asp
