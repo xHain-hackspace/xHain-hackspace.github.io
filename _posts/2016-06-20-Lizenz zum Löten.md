@@ -2,6 +2,7 @@
 layout: post
 meta: short description
 category: news
+title: Lizenz zum Löten
 lang: de
 translations:
 en: /en/news/2016/06/20/License-to-solder.html
