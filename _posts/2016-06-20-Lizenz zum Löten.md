@@ -6,7 +6,6 @@ lang: de
 translations:
 en: /news/2016/06/20/License-to-solder.en.html
 ---
-Lizenz zum Löten
 
 Abgerissene Stecker, kaputte Lichterketten, zerfallende Arduino-Projekte, Geräte mit Batteriefach statt Netzteil… Du
 solltest mal endlich löten lernen? Hier ist die Gelegenheit! Bring Deine defekten Geräte, die elektronischen Kuscheltiere, das batteriebetriebene Spielzeug, Deine Breadboard-Projekte, (gern auch defekte) Bauteile und Platinen mit, wir lernen löten!
