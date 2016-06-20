@@ -4,7 +4,7 @@ meta: short description
 category: news
 lang: de
 translations:
-en: /en/news/2016/06/20/Lizenz-zum-Löten.html
+en: /en/news/2016/06/20/License-to-solder.html
 ---
 
 Abgerissene Stecker, kaputte Lichterketten, zerfallende Arduino-Projekte, Geräte mit Batteriefach statt Netzteil… Du
