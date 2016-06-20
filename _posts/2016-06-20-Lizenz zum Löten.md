@@ -1,3 +1,11 @@
+---
+layout: post
+meta: short description
+category: news
+lang: de
+translations:
+en: /news/2016/06/20/License-to-solder.en.html
+---
 Lizenz zum Löten
 
 Abgerissene Stecker, kaputte Lichterketten, zerfallende Arduino-Projekte, Geräte mit Batteriefach statt Netzteil… Du
