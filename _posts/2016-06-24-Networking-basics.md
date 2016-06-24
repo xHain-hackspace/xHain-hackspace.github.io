@@ -14,6 +14,7 @@ Wir wissen alle, wie das läuft - Du steckst ein Kabel ein oder gibt ein WLAN-Pa
 Aber wie funktionieren Netzwerke hinter den Kulissen? Was ist eine IP-Adresse? Wie erreicht dein Rechner die ganze Welt? Wie kannst du nachschauen, was da schief ging?
 In diesem Workshop gebe ich, Theresa, (auf Englisch) einen Überblick über die Konzepte und ein paar Programme, die dir dabei helfen können, dein Netzwerk von deinem Rechner aus zu verstehen. Dann gibt es die Möglichkeit, die Programme auf deinem eigenen Rechner auszuprobieren. Du musst dafür nicht programmieren können. Wenn etwas nicht funktioniert, helfen wir dir. ☺
 
+<!--more--> 
 Anfänger*innen willkommen! Wenn du noch nichts über Netzwerke weißt, ist dieser Workshop für dich. Wenn du ein bisschen was weißt, auch. Wenn du dich schon als Expert*in verstehst, ist er vielleicht zu langweilig.
 
 Bitte bring deinen Rechner mit. Betriebssystem egal, aber ich habe die meiste Erfahrung mit Linux. Wahrscheinlich hast du die meisten Programme, die du brauchst, schon installiert, aber wenn du vor dem Workshop ein bisschen Zeit hast, kannst du noch Wireshark installieren (https://www.wireshark.org/#download). Falls du dafür vor dem Workshop keine Zeit findest, auch nicht schlimm, wir können das auch dort machen!
