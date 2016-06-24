@@ -5,7 +5,7 @@ category: news
 title: Networking Basics - How does my computer connect to the Internet?
 lang: en
 translations:
-de: /news/2016/06/20/Networking-basics.html
+de: /news/2016/06/24/Networking-basics.html
 ---
 
 Sunday, 26. June, 5 pm

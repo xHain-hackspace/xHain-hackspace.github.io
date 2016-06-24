@@ -5,7 +5,7 @@ category: news
 title: Netzwerk-Grundlagen - Wie verbindet sich mein Rechner mit dem Internet?
 lang: de
 translations:
-en: /en/news/2016/06/20/Networking-basics.html
+en: /en/news/2016/06/24/Networking-basics.html
 ---
 
 Sonntag, 26. Juni, 17 Uhr
