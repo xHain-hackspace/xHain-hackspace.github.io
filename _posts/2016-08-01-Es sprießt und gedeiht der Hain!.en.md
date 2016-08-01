@@ -4,8 +4,8 @@ meta: short description
 category: news
 lang: en
 translations:
-de: news/2016/08/01/Es-sprie%C3%9Ft-und-gedeiht-der-Hain!.html
-permalink: news/2016/08/01/Es-sprie%C3%9Ft-und-gedeiht-der-Hain!.en.html
+de: news/2016/08/01/Es-sprießt-und-gedeiht-der-Hain!.html
+permalink: /en/news/2016/08/01/Es-sprießt-und-gedeiht-der-Hain!.html
 title: The grove is growing! 
 ---
 How time flies - it is already August. And altough there hasn't been a new blog post in a while, a lot happened at the xHain.
