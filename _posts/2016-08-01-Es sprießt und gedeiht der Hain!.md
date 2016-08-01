@@ -4,7 +4,7 @@ meta: short description
 category: news
 lang: de
 translations:
-en: /news/2016/08/01/The-grove-is-growing.en.html
+en: en/news/2016/08/01/The-grove-is-growing.html
 title: Es sprießt und gedeiht der Hain!
 ---
 
