@@ -10,7 +10,7 @@ title: Es sprießt und gedeiht der Hain!
 
 Wie die Zeit verfliegt - schon ist es August. Und auch wenn es eine Weile keinen neuen Blogpost gab, im xHain war alles andere als Stillstand.
 
-Es gibt nun eine Gefahrenstelle weniger, denn die Stromversorgung für die Tische kommt nun von der Decke - man fliegt nicht mehr über die am Boden gespannten Verlängerungsstrippen. Jetzt muss die Kabeltrommel, die da an der Decke hängt, nur noch aufgehünscht werden ;-)
+Es gibt nun eine Gefahrenstelle weniger, denn die Stromversorgung für die Tische kommt nun von der Decke - man fliegt nicht mehr über die am Boden gespannten Verlängerungsstrippen. Jetzt muss die Kabeltrommel, die da an der Decke hängt, nur noch aufgehübscht werden ;-)
 Und auch der Beamer kann nun zu seiner vollen Entfaltung kommen, denn die Leinwand hängt.
 
 <!--more--> 
