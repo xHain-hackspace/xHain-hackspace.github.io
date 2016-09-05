@@ -5,7 +5,7 @@ category: news
 lang: de
 translations:
 en: en/news/2016/09/05/.html
-title: Wider der Langeweile - Herbstzeit ist Hack- und Bastelzeit!
+title: Herbstzeit ist Hack- und Bastelzeit!
 ---
 
 Der Sommer nähert sich dem Ende? Für's Rumhängen im Park wird's langsam zu kalt? Du weißt noch nicht womit du dir die Zeit im Herbst und Winter vertreiben willst? Kein Grund zum Traurigsein! Im xHain gibt es ein warmes Willkommen und jede Menge zu tun und zu lernen!
@@ -15,7 +15,7 @@ Der <a href="http://xhain-hackspace.github.io/calendar.html">Timetable</a> füll
 An jedem 1. und 3. Dienstag treffen sich Menschen, die <a href="https://de.wikipedia.org/wiki/Go_(Programmiersprache)">Go/Golang</a> lernen wollen - ein Lernabend der <a href="http://www.opentechschool.org/">OpenTechSchool</a>.
 
 
-<a href="http://www.medialepfade.de">mediale pfade</a>, haben eine Veranstaltungsreihe  "we are makers", wo ca. monatlich Menschen aus Tech und Education zusammengebracht werden, um neue maker-Themen (im weitesten Sinne) zu erproben und deren pädagogische Chancen für die Bildungsarbeit diskutieren. Im Rahmen dieser Reihe findet am 13.9. ab 18:00 eine CryptoParty bei uns statt.
+<a href="http://www.medialepfade.de">mediale pfade</a> haben eine Veranstaltungsreihe  "we are makers", wo ca. monatlich Menschen aus Tech und Education zusammengebracht werden, um neue maker-Themen (im weitesten Sinne) zu erproben und deren pädagogische Chancen für die Bildungsarbeit diskutieren. Im Rahmen dieser Reihe findet am 13.9. ab 18:00 eine CryptoParty bei uns statt.
 Der CivicHacking-Abend fällt daher diesen Monat aus.
 
 “Eine CryptoParty bezeichnet ein Treffen von Menschen mit dem Ziel, sich gegenseitig grundlegende Verschlüsselungs- und Verschleierungstechniken (zum Beispiel Tor, VPN,OpenPGP, Festplattenverschlüsselung und OTR) beizubringen. CryptoPartys sind öffentlich und unkommerziell, mit dem Fokus auf Open-Source-Software.”
