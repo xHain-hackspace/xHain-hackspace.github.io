@@ -32,6 +32,6 @@ You already know Houdini inside-out? Awesome. Present your projects and impress 
 Everyone is welcome: Newbie, veteran, artists, programmers
 
 
-And the highlight at the end: we are represented with a booth at the <a href="http://maker-faire.de/berlin/"> Maker Faire. You can meet us there on October 1st and 2nd - we're looking forward to it!
+And the highlight at the end: we are represented with a booth at the <a href="http://maker-faire.de/berlin/"> Maker Faire </a>. You can meet us there on October 1st and 2nd - we're looking forward to it!
 To have a really interesting booth we're currently working on a robot (let's hope that he will be ready by then) and also the cable weeping willow has not yet been written off as a project - therefore help (or old and/or broken cables) would be really appreciated!
 
