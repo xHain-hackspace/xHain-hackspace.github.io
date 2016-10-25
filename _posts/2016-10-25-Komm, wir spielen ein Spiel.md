@@ -5,7 +5,7 @@ meta: short description
 category: news
 lang: de
 translations:
-  en: /en/news/2016/04/18/opening.html
+  en: /en/news/2016/10/25/Komm-wir-spielen-ein-Spiel.html
 ---
 Lange erwartet, nun geht's endlich los:
 

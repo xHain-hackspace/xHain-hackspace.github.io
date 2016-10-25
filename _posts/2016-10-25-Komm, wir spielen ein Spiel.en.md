@@ -1,11 +1,12 @@
 ---
 layout: post
-title: LEt's play a game
+title: Let's play a game
 meta: short description
 category: news
 lang: en
 translations:
-  en: /en/news/2016/04/18/opening.html
+  de: /news/2016/10/25/Komm-wir-spielen-ein-Spiel.html
+permalink: /en/news/2016/10/25/Komm-wir-spielen-ein-Spiel.html  
 ---
 We've been waiting long enough - let's begin:
 
