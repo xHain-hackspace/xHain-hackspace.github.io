@@ -20,4 +20,4 @@ Das <a href="http://pad.okfn.org/p/xHain-Kartenabend">Pad</a> für den Abend gib
 -  <a href="http://www.postgis.net/">PostGIS</a>
 
 ![Cozy MapEvening]
-(/gemuetlicherkartenabend.klein.jpg )
+(https://github.com/xHain-hackspace/xHain-hackspace.github.io/blob/master/gemuetlicherkartenabend.klein.jpg)
