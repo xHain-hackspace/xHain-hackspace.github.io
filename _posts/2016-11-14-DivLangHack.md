@@ -12,6 +12,7 @@ translations:
 Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim < div >#ling:hack verbinden wir sie!
 
 <!--more--> 
+<p>
 - automatisiertes phonetisches Rendern der deutschen Sprache in Arabisch mit Phyton und espeak
 - Sprachquiz in Objective C für's iPhone
 - Refugee phrasebook in Javascript
@@ -21,7 +22,8 @@ Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim
 - Kollaborative Sprachbeschreibung
 - Empowerment
 - ...
-
+</p>
+	
 Links
 http://pad.okfn.org/p/divlinghack
 http://languagelandscape.org/
