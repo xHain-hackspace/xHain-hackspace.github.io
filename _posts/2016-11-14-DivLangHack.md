@@ -13,15 +13,15 @@ Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim
 
 <!--more--> 
 <p>
-- automatisiertes phonetisches Rendern der deutschen Sprache in Arabisch mit Phyton und espeak
-- Sprachquiz in Objective C für's iPhone
-- Refugee phrasebook in Javascript
-- Facettierte Suche von BeispielsätzeN in über 1000 Sprachen mit SOLR.
-- NLP und lexikalisch-semantische Ressourcen für kleine Sprachen.
-- Karten über Sprachenvielfalt; Polygone zur Nachnutzung als Open Data
-- Kollaborative Sprachbeschreibung
-- Empowerment
-- ...
+- automatisiertes phonetisches Rendern der deutschen Sprache in Arabisch mit Phyton und espeak<br>
+- Sprachquiz in Objective C für's iPhone<br>
+- Refugee phrasebook in Javascript<br>
+- Facettierte Suche von Beispielsätzen in über 1000 Sprachen mit SOLR.<br>
+- NLP und lexikalisch-semantische Ressourcen für kleine Sprachen.<br>
+- Karten über Sprachenvielfalt; Polygone zur Nachnutzung als Open Data<br>
+- Kollaborative Sprachbeschreibung<br>
+- Empowerment<br>
+- ...<br>
 </p>
 	
 Links

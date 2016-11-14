@@ -11,18 +11,18 @@ translations:
 
 There are tons of computer languages, and there are tons natural
 languages. At < div >#ling:hack, we connect them!
-
+<p>
 - automated phonetic rendering of German in Arabic script with python
-and espeak
-- language quiz in Objective C for the iPhone
-- refugee phrasebook in javascript
-- faceted browing of sentences from over 1000 languages with SOLR
-- NLP and lexical-semantic resources for less resourced languages
-- maps of linguistic diversity; polygons and reuse thereof as Open Data
-- collaborative language descripition
-- empowerment
-- ...
-
+and espeak<br>
+- language quiz in Objective C for the iPhone<br>
+- refugee phrasebook in javascript<br>
+- faceted browing of sentences from over 1000 languages with SOLR<br>
+- NLP and lexical-semantic resources for less resourced languages<br>
+- maps of linguistic diversity; polygons and reuse thereof as Open Data<br>
+- collaborative language descripition<br>
+- empowerment<br>
+- ...<br>
+</p>
 Links
 http://pad.okfn.org/p/divlinghack
 http://languagelandscape.org/
