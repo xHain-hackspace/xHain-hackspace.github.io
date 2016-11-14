@@ -9,8 +9,9 @@ translations:
 ---
 < div >#ling:hack, 2016-11-16
 
-Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim < div >#ling:hack verbinden wir sie:
+Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim < div >#ling:hack verbinden wir sie!
 
+<!--more--> 
 - automatisiertes phonetisches Rendern der deutschen Sprache in Arabisch mit Phyton und espeak
 - Sprachquiz in Objective C für's iPhone
 - Refugee phrasebook in Javascript

@@ -10,7 +10,7 @@ translations:
 < div >#ling:hack, 2016-11-16
 
 There are tons of computer languages, and there are tons natural
-languages. At < div >#ling:hack, we connect them:
+languages. At < div >#ling:hack, we connect them!
 
 - automated phonetic rendering of German in Arabic script with python
 and espeak
