@@ -24,12 +24,12 @@ Es gibt Unmengen an Programmiersprachen und ohne Ende natürliche Sprachen. Beim
 - ...<br>
 </p>
 	
-Links
-http://pad.okfn.org/p/divlinghack
-http://languagelandscape.org/
-http://engelmann.uni.lu/lingscape/
-http://llmap.org/
-http://www.endangeredlanguages.com/
-http://refugee-phrasebook.github.io/
-http://elalliance.org/
-https://itunes.apple.com/de/app/languini/id1010870756?mt=8
+Links<br>
+http://pad.okfn.org/p/divlinghack<br>
+http://languagelandscape.org/<br>
+http://engelmann.uni.lu/lingscape/<br>
+http://llmap.org/<br>
+http://www.endangeredlanguages.com/<br>
+http://refugee-phrasebook.github.io/<br>
+http://elalliance.org/<br>
+https://itunes.apple.com/de/app/languini/id1010870756?mt=8<br>
