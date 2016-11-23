@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # Half birthday - full Yeah!
+title: Half birthday - full Yeah!
 meta: short description
 category: news
 lang: en

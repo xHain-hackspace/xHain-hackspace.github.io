@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # Halber Geburtstag - ganzes Yeah!
+title: Halber Geburtstag - ganzes Yeah!
 meta: short description
 category: news
 lang: de
